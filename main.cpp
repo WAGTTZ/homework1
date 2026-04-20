@@ -10,6 +10,7 @@ cout << "It's bar!!" << endl;
 int main ()
 {
 	cout<<"hellow ,word!"<<endl;
+	bar();
 	return 0;
 }
   
